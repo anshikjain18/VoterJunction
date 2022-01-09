@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334621482540",
+    "project_id": "alanapp-d7357",
+    "storage_bucket": "alanapp-d7357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334621482540:android:b4674991770e8dabfcbb89",
+        "android_client_info": {
+          "package_name": "com.alanapp.alan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334621482540-mng9gsvr55jkcvlemou0ck54gj65jjq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alanapp.alan_app",
+            "certificate_hash": "f3f7a9b0c7a86b116b9d6460c8a4e2d25740bce0"
+          }
+        },
+        {
+          "client_id": "334621482540-tdp95ngmanvb61g015ia89r4q8a2veq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxGlaUHCF1-jQf1N0rLq4dOijQ6-bYj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334621482540-tdp95ngmanvb61g015ia89r4q8a2veq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
